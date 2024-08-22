@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pose-detection-project.git
+   https://github.com/AhemdMahmoud/Pose_Detection.git
    cd pose-detection-project
    ```
 
