@@ -12,10 +12,10 @@ This project implements real-time pose detection using a webcam feed, leveraging
 
 Here are some screenshots demonstrating the pose detection in action:
 
-![Pose Detection Example 1](/path/to/screenshot1.png)
+![Pose Detection Example 1](https://github.com/AhemdMahmoud/Pose_Detection/blob/main/images/screenshot_11.png)
 *Caption: Full body pose detection*
 
-![Pose Detection Example 2](/path/to/screenshot2.png)
+![Pose Detection Example 2](https://github.com/AhemdMahmoud/Pose_Detection/blob/main/images/screenshot_7.png)
 *Caption: Upper body pose detection with landmark visualization*
 
 
