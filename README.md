@@ -8,6 +8,17 @@ This project implements real-time pose detection using a webcam feed, leveraging
 - Visualization of pose landmarks on the video stream
 - Automatic screenshot capture at specified intervals
 
+## Screenshots
+
+Here are some screenshots demonstrating the pose detection in action:
+
+![Pose Detection Example 1](/path/to/screenshot1.png)
+*Caption: Full body pose detection*
+
+![Pose Detection Example 2](/path/to/screenshot2.png)
+*Caption: Upper body pose detection with landmark visualization*
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -21,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   https://github.com/AhemdMahmoud/Pose_Detection.git
+   git clone https://github.com/AhemdMahmoud/Pose_Detection.git
    cd pose-detection-project
    ```
 
